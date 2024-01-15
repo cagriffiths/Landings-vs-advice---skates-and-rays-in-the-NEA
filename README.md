@@ -3,21 +3,25 @@ This repo contains all the data and code needed to reproduce the analysis and fi
 
 The repo contains 2 primary folders:
 
-*Data* - contains 4 .csv files:
+*Data* - contains 5 .csv files:
 
-(1)
+(1) `landings_2009-2022` - ICES estimated landings (in tonnes) by stock, fishing area and year. 
 
-(2)
+(2) `advice` - ICES advice (in tonnes) by stock and year.  
 
-(3)
+(3) `life_history_traits` - species-specific life history traits (Linf, Lmat and fecundity), listed in Table 2 in the main MS. 
 
-(4)
+(4) `landings_vs_advice` - final dataset used in the analysis, product of running the R script `collate_landings_and_advice`. 
 
-*Code* - contains 2 files:
+(5) `TAC_2009-2022` - lists TAC values (in tonnes) by ICES area and year. 
 
-(1)
+*Code* - contains 3 files:
 
-(2)
+(1) `collate_landings_and_advice` - code to collate and compare ICES landings and ICES advice. Also includes the calculation to split ICES advice based on landing proportions by stock and year.  
+
+(2) `generate_figures` - code to generate Figures 1-3 from the main MS as well as Figure S1. 
+
+(3) `generate_tables` - code to generate SI tables S1 and S3. 
 
 There is an additional *Output* folder which contains the all the generated datafiles and figures used in the MS and SIs. 
 
