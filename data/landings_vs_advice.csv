@@ -1,0 +1,217 @@
+"","species","year","stock","area","Landings","Landings_total","proportion_landings","advice","ICES_cat","advice_corrected","rel_advice","diff_advice","cat_group","latin_name","species_code","Linf","Lmat","Fecundity"
+"1","Blonde ray",2018,"rjh.27.7e","Celtic Seas",735.126175,735.126175,1,333,5,333,1.20758611111111,402.126175,"Category 5 and 6","Raja brachyura","RJH",125,82,42
+"2","Blonde ray",2017,"rjh.27.4a6","Celtic Seas",5.99141,5.99141,1,6,5,6,-0.00143166666666661,-0.00858999999999988,"Category 5 and 6","Raja brachyura","RJH",125,82,42
+"3","Blonde ray",2016,"rjh.27.9a","Bay of Biscay and Iberian coast",221.6664,221.6664,1,200,3,200,0.108332,21.6664,"Category 3","Raja brachyura","RJH",125,82,42
+"4","Blonde ray",2016,"rjh.27.4a6","Celtic Seas",13.67691,13.83791,0.988365295048168,6,5,5.93019177028901,1.30631833333333,7.74671822971099,"Category 5 and 6","Raja brachyura","RJH",125,82,42
+"5","Blonde ray",2020,"rjh.27.4a6","Celtic Seas",21.32783,21.47432,0.993178363738642,9,5,8.93860527364778,1.38603555555556,12.3892247263522,"Category 5 and 6","Raja brachyura","RJH",125,82,42
+"6","Blonde ray",2022,"rjh.27.7afg","Celtic Seas",1342.10161,1342.10161,1,716,5,716,0.874443589385475,626.10161,"Category 5 and 6","Raja brachyura","RJH",125,82,42
+"7","Blonde ray",2019,"rjh.27.4a6","Celtic Seas",34.6579,35.3543,0.980302254605522,9,5,8.8227202914497,2.92825555555555,25.8351797085503,"Category 5 and 6","Raja brachyura","RJH",125,82,42
+"8","Blonde ray",2017,"rjh.27.9a","Bay of Biscay and Iberian coast",235.866,235.866,1,177,3,177,0.332576271186441,58.866,"Category 3","Raja brachyura","RJH",125,82,42
+"9","Blonde ray",2019,"rjh.27.9a","Bay of Biscay and Iberian coast",262.7987,262.7987,1,212,3,212,0.239616509433962,50.7987,"Category 3","Raja brachyura","RJH",125,82,42
+"10","Blonde ray",2021,"rjh.27.9a","Bay of Biscay and Iberian coast",277.78631,277.78631,1,254,3,254,0.0936468897637797,23.78631,"Category 3","Raja brachyura","RJH",125,82,42
+"11","Blonde ray",2018,"rjh.27.4bc7d","Greater North Sea",254.83533,254.83533,1,195,3,195,0.306847846153846,59.83533,"Category 3","Raja brachyura","RJH",125,82,42
+"12","Blonde ray",2018,"rjh.27.7afg","Celtic Seas",1076.502805,1076.502805,1,895,5,895,0.202796430167598,181.502805,"Category 5 and 6","Raja brachyura","RJH",125,82,42
+"13","Blonde ray",2022,"rjh.27.4a6","Celtic Seas",4.555389,5.395389,0.844311503767384,7,5,5.91018052637169,-0.229230142857143,-1.35479152637169,"Category 5 and 6","Raja brachyura","RJH",125,82,42
+"14","Blonde ray",2016,"rjh.27.4bc7d","Greater North Sea",182.93209,182.93209,1,162,3,162,0.129210432098765,20.93209,"Category 3","Raja brachyura","RJH",125,82,42
+"15","Blonde ray",2017,"rjh.27.7e","Celtic Seas",504.05635,504.05635,1,333,5,333,0.513682732732733,171.05635,"Category 5 and 6","Raja brachyura","RJH",125,82,42
+"16","Blonde ray",2021,"rjh.27.4a6","Celtic Seas",14.33671,14.59447,0.982338515889923,9,5,8.8410466430093,0.621607777777778,5.4956633569907,"Category 5 and 6","Raja brachyura","RJH",125,82,42
+"17","Blonde ray",2022,"rjh.27.7e","Celtic Seas",1080.139,1080.139,1,266,5,266,3.06067293233083,814.139,"Category 5 and 6","Raja brachyura","RJH",125,82,42
+"18","Blonde ray",2022,"rjh.27.4a6","Greater North Sea",0.84,5.395389,0.155688496232616,7,5,1.08981947362831,-0.229230142857143,-0.249819473628315,"Category 5 and 6","Raja brachyura","RJH",125,82,42
+"19","Blonde ray",2021,"rjh.27.4bc7d","Greater North Sea",298.81763,298.81763,1,164,3,164,0.822058719512195,134.81763,"Category 3","Raja brachyura","RJH",125,82,42
+"20","Blonde ray",2021,"rjh.27.7e","Celtic Seas",992.01596,992.01596,1,266,5,266,2.72938330827068,726.01596,"Category 5 and 6","Raja brachyura","RJH",125,82,42
+"21","Blonde ray",2019,"rjh.27.4a6","Greater North Sea",0.6964,35.3543,0.0196977453944782,9,5,0.177279708550304,2.92825555555555,0.519120291449696,"Category 5 and 6","Raja brachyura","RJH",125,82,42
+"22","Blonde ray",2019,"rjh.27.4bc7d","Greater North Sea",253.05768,253.05768,1,195,3,195,0.297731692307692,58.05768,"Category 3","Raja brachyura","RJH",125,82,42
+"23","Blonde ray",2019,"rjh.27.7afg","Celtic Seas",1615.763545,1615.763545,1,716,5,716,1.25665299581006,899.763545,"Category 5 and 6","Raja brachyura","RJH",125,82,42
+"24","Blonde ray",2018,"rjh.27.4a6","Greater North Sea",0.045,26.10551,0.00172377402318514,6,5,0.0103426441391109,3.35091833333333,0.0346573558608891,"Category 5 and 6","Raja brachyura","RJH",125,82,42
+"25","Blonde ray",2018,"rjh.27.9a","Bay of Biscay and Iberian coast",195.16787,195.16787,1,177,3,177,0.102643333333333,18.16787,"Category 3","Raja brachyura","RJH",125,82,42
+"26","Blonde ray",2020,"rjh.27.9a","Bay of Biscay and Iberian coast",347.05291,347.05291,1,212,3,212,0.637042028301887,135.05291,"Category 3","Raja brachyura","RJH",125,82,42
+"27","Blonde ray",2017,"rjh.27.7afg","Celtic Seas",1020.173015,1020.173015,1,895,5,895,0.139858117318436,125.173015,"Category 5 and 6","Raja brachyura","RJH",125,82,42
+"28","Blonde ray",2016,"rjh.27.7afg","Celtic Seas",1004.018117,1004.018117,1,897,5,897,0.119306707915273,107.018117,"Category 5 and 6","Raja brachyura","RJH",125,82,42
+"29","Blonde ray",2016,"rjh.27.7e","Celtic Seas",586.648,586.648,1,310,5,310,0.892412903225807,276.648,"Category 5 and 6","Raja brachyura","RJH",125,82,42
+"30","Blonde ray",2017,"rjh.27.4bc7d","Greater North Sea",240.83954,240.83954,1,162,3,162,0.486663827160494,78.83954,"Category 3","Raja brachyura","RJH",125,82,42
+"31","Blonde ray",2016,"rjh.27.4a6","Greater North Sea",0.161,13.83791,0.0116347049518316,6,5,0.0698082297109896,1.30631833333333,0.0911917702890104,"Category 5 and 6","Raja brachyura","RJH",125,82,42
+"32","Blonde ray",2020,"rjh.27.7e","Celtic Seas",1013.552248,1013.552248,1,266,5,266,2.81034679699248,747.552248,"Category 5 and 6","Raja brachyura","RJH",125,82,42
+"33","Blonde ray",2021,"rjh.27.7afg","Celtic Seas",1467.440727,1467.440727,1,716,5,716,1.04949822206704,751.440727,"Category 5 and 6","Raja brachyura","RJH",125,82,42
+"34","Blonde ray",2020,"rjh.27.4a6","Greater North Sea",0.14649,21.47432,0.00682163626135775,9,5,0.0613947263522198,1.38603555555556,0.0850952736477802,"Category 5 and 6","Raja brachyura","RJH",125,82,42
+"35","Blonde ray",2020,"rjh.27.7afg","Celtic Seas",1703.27047,1703.27047,1,716,5,716,1.37886937150838,987.27047,"Category 5 and 6","Raja brachyura","RJH",125,82,42
+"36","Blonde ray",2022,"rjh.27.9a","Bay of Biscay and Iberian coast",310.8209,310.8209,1,254,3,254,0.223704330708661,56.8209,"Category 3","Raja brachyura","RJH",125,82,42
+"37","Blonde ray",2019,"rjh.27.7e","Celtic Seas",896.321957,896.321957,1,266,5,266,2.36963141729323,630.321957,"Category 5 and 6","Raja brachyura","RJH",125,82,42
+"38","Blonde ray",2020,"rjh.27.4bc7d","Greater North Sea",243.07429,243.07429,1,164,3,164,0.482160304878049,79.07429,"Category 3","Raja brachyura","RJH",125,82,42
+"39","Blonde ray",2022,"rjh.27.4bc7d","Greater North Sea",327.9669,327.9669,1,191,3,191,0.717104188481675,136.9669,"Category 3","Raja brachyura","RJH",125,82,42
+"40","Blonde ray",2021,"rjh.27.4a6","Greater North Sea",0.25776,14.59447,0.0176614841100773,9,5,0.158953356990696,0.621607777777778,0.0988066430093042,"Category 5 and 6","Raja brachyura","RJH",125,82,42
+"41","Blonde ray",2018,"rjh.27.4a6","Celtic Seas",26.06051,26.10551,0.998276225976815,6,5,5.98965735586089,3.35091833333333,20.0708526441391,"Category 5 and 6","Raja brachyura","RJH",125,82,42
+"42","Cuckoo ray",2016,"rjn.27.678abd","Celtic Seas",1955.107346,2954.709516,0.661691897431179,1998,3,1322.0604110675,0.478833591591592,633.046934932505,"Category 3","Leucoraja naevus","RJN",83,56,100
+"43","Cuckoo ray",2018,"rjn.27.3a4","Greater North Sea",180.17816,180.17816,1,116,3,116,0.55326,64.17816,"Category 3","Leucoraja naevus","RJN",83,56,100
+"44","Cuckoo ray",2017,"rjn.27.678abd","Greater North Sea",3.00293,2803.978703,0.00107095321258579,2734,3,2.92798608320956,0.0255957216532552,0.0749439167904371,"Category 3","Leucoraja naevus","RJN",83,56,100
+"45","Cuckoo ray",2018,"rjn.27.8c","Bay of Biscay and Iberian coast",22.6549,22.6549,1,27,3,27,-0.16092962962963,-4.3451,"Category 3","Leucoraja naevus","RJN",83,56,100
+"46","Cuckoo ray",2016,"rjn.27.9a","Bay of Biscay and Iberian coast",58.63576,58.63576,1,46,3,46,0.274690434782609,12.63576,"Category 3","Leucoraja naevus","RJN",83,56,100
+"47","Cuckoo ray",2019,"rjn.27.9a","Bay of Biscay and Iberian coast",38.40252,38.40252,1,70,3,70,-0.451392571428571,-31.59748,"Category 3","Leucoraja naevus","RJN",83,56,100
+"48","Cuckoo ray",2016,"rjn.27.678abd","Bay of Biscay and Iberian coast",996.23117,2954.709516,0.337167212074596,1998,3,673.660089725044,0.478833591591592,322.571080274956,"Category 3","Leucoraja naevus","RJN",83,56,100
+"49","Cuckoo ray",2019,"rjn.27.678abd","Bay of Biscay and Iberian coast",923.48095,3107.223597,0.297204536838486,3281,3,975.128085367073,-0.052964462968607,-51.647135367073,"Category 3","Leucoraja naevus","RJN",83,56,100
+"50","Cuckoo ray",2017,"rjn.27.678abd","Celtic Seas",1885.540033,2803.978703,0.672451624180542,2734,3,1838.4827405096,0.0255957216532552,47.0572924903977,"Category 3","Leucoraja naevus","RJN",83,56,100
+"51","Cuckoo ray",2020,"rjn.27.8c","Bay of Biscay and Iberian coast",8.79184,8.79184,1,26,3,26,-0.661852307692308,-17.20816,"Category 3","Leucoraja naevus","RJN",83,56,100
+"52","Cuckoo ray",2018,"rjn.27.9a","Bay of Biscay and Iberian coast",24.725068,24.725068,1,58,3,58,-0.573705724137931,-33.274932,"Category 3","Leucoraja naevus","RJN",83,56,100
+"53","Cuckoo ray",2016,"rjn.27.8c","Bay of Biscay and Iberian coast",12.8915,12.8915,1,347,3,347,-0.962848703170029,-334.1085,"Category 3","Leucoraja naevus","RJN",83,56,100
+"54","Cuckoo ray",2016,"rjn.27.3a4","Greater North Sea",168.96,168.96,1,128,3,128,0.32,40.96,"Category 3","Leucoraja naevus","RJN",83,56,100
+"55","Cuckoo ray",2021,"rjn.27.678abd","Bay of Biscay and Iberian coast",772.84663,2514.53055,0.307352253087559,3150,3,968.159597225812,-0.201736333333333,-195.312967225812,"Category 3","Leucoraja naevus","RJN",83,56,100
+"56","Cuckoo ray",2019,"rjn.27.678abd","Celtic Seas",2183.143647,3107.223597,0.702602686561665,3281,3,2305.23941460882,-0.052964462968607,-122.095767608822,"Category 3","Leucoraja naevus","RJN",83,56,100
+"57","Cuckoo ray",2017,"rjn.27.678abd","Bay of Biscay and Iberian coast",915.43574,2803.978703,0.326477422606872,2734,3,892.589273407188,0.0255957216532554,22.8464665928118,"Category 3","Leucoraja naevus","RJN",83,56,100
+"58","Cuckoo ray",2016,"rjn.27.678abd","Greater North Sea",3.371,2954.709516,0.00114089049422481,1998,3,2.27949920746118,0.478833591591591,1.09150079253882,"Category 3","Leucoraja naevus","RJN",83,56,100
+"59","Cuckoo ray",2017,"rjn.27.9a","Bay of Biscay and Iberian coast",40.731,40.731,1,58,3,58,-0.297741379310345,-17.269,"Category 3","Leucoraja naevus","RJN",83,56,100
+"60","Cuckoo ray",2021,"rjn.27.8c","Bay of Biscay and Iberian coast",7.3187,7.3187,1,31,3,31,-0.763912903225807,-23.6813,"Category 3","Leucoraja naevus","RJN",83,56,100
+"61","Cuckoo ray",2020,"rjn.27.3a4","Greater North Sea",177.25284,177.25284,1,139,3,139,0.275200287769784,38.25284,"Category 3","Leucoraja naevus","RJN",83,56,100
+"62","Cuckoo ray",2017,"rjn.27.3a4","Greater North Sea",155.33398,155.33398,1,128,3,128,0.21354671875,27.33398,"Category 3","Leucoraja naevus","RJN",83,56,100
+"63","Cuckoo ray",2020,"rjn.27.678abd","Celtic Seas",1690.15103,2452.12873,0.689258687491501,3281,3,2261.45775365961,-0.252627634867419,-571.306723659613,"Category 3","Leucoraja naevus","RJN",83,56,100
+"64","Cuckoo ray",2018,"rjn.27.678abd","Greater North Sea",2.96908,3037.411076,0.000977503513916863,2734,3,2.6724946070487,0.110976984637893,0.296585392951296,"Category 3","Leucoraja naevus","RJN",83,56,100
+"65","Cuckoo ray",2022,"rjn.27.9a","Bay of Biscay and Iberian coast",38.987,38.987,1,84,3,84,-0.535869047619048,-45.013,"Category 3","Leucoraja naevus","RJN",83,56,100
+"66","Cuckoo ray",2018,"rjn.27.678abd","Celtic Seas",1991.706246,3037.411076,0.655724956604458,2734,3,1792.75203135659,0.110976984637893,198.954214643412,"Category 3","Leucoraja naevus","RJN",83,56,100
+"67","Cuckoo ray",2017,"rjn.27.8c","Bay of Biscay and Iberian coast",15.23493,15.23493,1,27,3,27,-0.435743333333333,-11.76507,"Category 3","Leucoraja naevus","RJN",83,56,100
+"68","Cuckoo ray",2019,"rjn.27.3a4","Greater North Sea",202.99036,202.99036,1,116,3,116,0.749916896551724,86.99036,"Category 3","Leucoraja naevus","RJN",83,56,100
+"69","Cuckoo ray",2021,"rjn.27.3a4","Greater North Sea",169.11312,169.11312,1,139,3,139,0.216641151079137,30.11312,"Category 3","Leucoraja naevus","RJN",83,56,100
+"70","Cuckoo ray",2020,"rjn.27.9a","Bay of Biscay and Iberian coast",23.350995,23.350995,1,70,3,70,-0.666414357142857,-46.649005,"Category 3","Leucoraja naevus","RJN",83,56,100
+"71","Cuckoo ray",2018,"rjn.27.678abd","Bay of Biscay and Iberian coast",1042.73575,3037.411076,0.343297539881625,2734,3,938.575474036363,0.110976984637893,104.160275963637,"Category 3","Leucoraja naevus","RJN",83,56,100
+"72","Cuckoo ray",2019,"rjn.27.8c","Bay of Biscay and Iberian coast",13.20006,13.20006,1,26,3,26,-0.492305384615385,-12.79994,"Category 3","Leucoraja naevus","RJN",83,56,100
+"73","Cuckoo ray",2022,"rjn.27.678abd","Celtic Seas",1623.719975,2281.261935,0.71176393648106,3150,3,2242.05639991534,-0.275789861904762,-618.336424915339,"Category 3","Leucoraja naevus","RJN",83,56,100
+"74","Cuckoo ray",2021,"rjn.27.9a","Bay of Biscay and Iberian coast",22.6787,22.6787,1,84,3,84,-0.730015476190476,-61.3213,"Category 3","Leucoraja naevus","RJN",83,56,100
+"75","Cuckoo ray",2022,"rjn.27.8c","Bay of Biscay and Iberian coast",16.34763,16.34763,1,31,3,31,-0.472657096774194,-14.65237,"Category 3","Leucoraja naevus","RJN",83,56,100
+"76","Cuckoo ray",2020,"rjn.27.678abd","Bay of Biscay and Iberian coast",761.2937,2452.12873,0.310462371198595,3281,3,1018.62703990259,-0.252627634867419,-257.333339902591,"Category 3","Leucoraja naevus","RJN",83,56,100
+"77","Cuckoo ray",2020,"rjn.27.678abd","Greater North Sea",0.684,2452.12873,0.000278941309904232,3281,3,0.915206437795784,-0.252627634867418,-0.231206437795784,"Category 3","Leucoraja naevus","RJN",83,56,100
+"78","Cuckoo ray",2019,"rjn.27.678abd","Greater North Sea",0.599,3107.223597,0.000192776599848923,3281,3,0.632500024104316,-0.052964462968607,-0.0335000241043161,"Category 3","Leucoraja naevus","RJN",83,56,100
+"79","Cuckoo ray",2021,"rjn.27.678abd","Greater North Sea",1.8889,2514.53055,0.000751193895814867,3150,3,2.36626077181683,-0.201736333333333,-0.477360771816831,"Category 3","Leucoraja naevus","RJN",83,56,100
+"80","Cuckoo ray",2022,"rjn.27.678abd","Bay of Biscay and Iberian coast",657.54196,2281.261935,0.28823606351894,3150,3,907.943600084661,-0.275789861904762,-250.401640084661,"Category 3","Leucoraja naevus","RJN",83,56,100
+"81","Cuckoo ray",2022,"rjn.27.3a4","Greater North Sea",136.07305,136.07305,1,89,3,89,0.528910674157303,47.07305,"Category 3","Leucoraja naevus","RJN",83,56,100
+"82","Cuckoo ray",2021,"rjn.27.678abd","Celtic Seas",1739.79502,2514.53055,0.691896553016626,3150,3,2179.47414200237,-0.201736333333333,-439.679122002371,"Category 3","Leucoraja naevus","RJN",83,56,100
+"83","Sandy ray",2020,"rji.27.67","Celtic Seas",29.72911,29.72911,1,34,5,34,-0.125614411764706,-4.27089,"Category 5 and 6","Leucoraja circularis","RJI",117,95,NA
+"84","Sandy ray",2018,"rji.27.67","Celtic Seas",76.95615,76.95615,1,42,5,42,0.832289285714286,34.95615,"Category 5 and 6","Leucoraja circularis","RJI",117,95,NA
+"85","Sandy ray",2019,"rji.27.67","Celtic Seas",35.61709,35.61709,1,34,5,34,0.0475614705882352,1.61709,"Category 5 and 6","Leucoraja circularis","RJI",117,95,NA
+"86","Sandy ray",2021,"rji.27.67","Celtic Seas",49.79008,49.79008,1,34,5,34,0.464414117647059,15.79008,"Category 5 and 6","Leucoraja circularis","RJI",117,95,NA
+"87","Sandy ray",2016,"rji.27.67","Celtic Seas",74.69785,74.69785,1,39,5,39,0.915329487179487,35.69785,"Category 5 and 6","Leucoraja circularis","RJI",117,95,NA
+"88","Sandy ray",2022,"rji.27.67","Celtic Seas",56.876289,56.876289,1,34,5,34,0.672832029411765,22.876289,"Category 5 and 6","Leucoraja circularis","RJI",117,95,NA
+"89","Sandy ray",2017,"rji.27.67","Celtic Seas",67.57068,67.57068,1,42,5,42,0.608825714285714,25.57068,"Category 5 and 6","Leucoraja circularis","RJI",117,95,NA
+"90","Shagreen ray",2020,"rjf.27.67","Celtic Seas",180.8363,180.83666,0.999998009253212,168,5,167.99966555454,0.0764086904761905,12.8366344454603,"Category 5 and 6","Leucoraja fullonica","RJF",110,75,NA
+"91","Shagreen ray",2017,"rjf.27.67","Celtic Seas",199.68197,199.68297,0.999994992061667,210,5,209.99894833295,-0.0491287142857143,-10.31697833295,"Category 5 and 6","Leucoraja fullonica","RJF",110,75,NA
+"92","Shagreen ray",2020,"rjf.27.67","Greater North Sea",0.00036,180.83666,0.00000199074678773651,168,5,0.000334445460339734,0.0764086904761905,0.0000255545396602658,"Category 5 and 6","Leucoraja fullonica","RJF",110,75,NA
+"93","Shagreen ray",2017,"rjf.27.67","Greater North Sea",0.001,199.68297,0.00000500793833344927,210,5,0.00105166705002435,-0.0491287142857144,-0.0000516670500243462,"Category 5 and 6","Leucoraja fullonica","RJF",110,75,NA
+"94","Shagreen ray",2018,"rjf.27.67","Celtic Seas",203.49846,203.59846,0.999508837149358,210,5,209.896855801365,-0.0304835238095239,-6.39839580136513,"Category 5 and 6","Leucoraja fullonica","RJF",110,75,NA
+"95","Shagreen ray",2016,"rjf.27.67","Celtic Seas",185.40836,185.40836,1,186,5,186,-0.00318086021505382,-0.591640000000012,"Category 5 and 6","Leucoraja fullonica","RJF",110,75,NA
+"96","Shagreen ray",2018,"rjf.27.67","Greater North Sea",0.1,203.59846,0.000491162850642387,210,5,0.103144198634901,-0.0304835238095237,-0.00314419863490126,"Category 5 and 6","Leucoraja fullonica","RJF",110,75,NA
+"97","Shagreen ray",2019,"rjf.27.67","Celtic Seas",194.33844,194.33844,1,168,5,168,0.156776428571429,26.33844,"Category 5 and 6","Leucoraja fullonica","RJF",110,75,NA
+"98","Shagreen ray",2021,"rjf.27.67","Celtic Seas",182.178048,182.178048,1,168,5,168,0.0843931428571427,14.178048,"Category 5 and 6","Leucoraja fullonica","RJF",110,75,NA
+"99","Shagreen ray",2022,"rjf.27.67","Celtic Seas",207.77079,207.77079,1,168,5,168,0.236730892857143,39.77079,"Category 5 and 6","Leucoraja fullonica","RJF",110,75,NA
+"100","Small-eyed ray",2022,"rje.27.7de","Greater North Sea",24.54955,65.11135,0.377039486971166,40,5,15.0815794788466,0.62778375,9.46797052115338,"Category 5 and 6","Raja microocellata","RJE",87,73,58
+"101","Small-eyed ray",2017,"rje.27.7fg","Celtic Seas",201.32289,201.32289,1,154,3,154,0.307291493506493,47.32289,"Category 3","Raja microocellata","RJE",87,73,58
+"102","Small-eyed ray",2020,"rje.27.7de","Greater North Sea",36.45737,52.90862,0.689062954202926,40,5,27.562518168117,0.3227155,8.89485183188297,"Category 5 and 6","Raja microocellata","RJE",87,73,58
+"103","Small-eyed ray",2022,"rje.27.7de","Celtic Seas",40.5618,65.11135,0.622960513028834,40,5,24.9184205211534,0.62778375,15.6433794788466,"Category 5 and 6","Raja microocellata","RJE",87,73,58
+"104","Small-eyed ray",2020,"rje.27.7fg","Celtic Seas",230.22925,230.22925,1,192,3,192,0.199110677083333,38.22925,"Category 3","Raja microocellata","RJE",87,73,58
+"105","Small-eyed ray",2022,"rje.27.7fg","Celtic Seas",151.41626,151.41626,1,123,3,123,0.231026504065041,28.41626,"Category 3","Raja microocellata","RJE",87,73,58
+"106","Small-eyed ray",2019,"rje.27.7de","Celtic Seas",15.48577,50.36327,0.307481424458737,40,5,12.2992569783495,0.25908175,3.1865130216505,"Category 5 and 6","Raja microocellata","RJE",87,73,58
+"107","Small-eyed ray",2019,"rje.27.7de","Greater North Sea",34.8775,50.36327,0.692518575541263,40,5,27.7007430216505,0.25908175,7.1767569783495,"Category 5 and 6","Raja microocellata","RJE",87,73,58
+"108","Small-eyed ray",2021,"rje.27.7de","Celtic Seas",30.85342,50.87276,0.606482133070822,40,5,24.2592853228329,0.271819,6.59413467716711,"Category 5 and 6","Raja microocellata","RJE",87,73,58
+"109","Small-eyed ray",2021,"rje.27.7de","Greater North Sea",20.01934,50.87276,0.393517866929178,40,5,15.7407146771671,0.271819,4.27862532283289,"Category 5 and 6","Raja microocellata","RJE",87,73,58
+"110","Small-eyed ray",2019,"rje.27.7fg","Celtic Seas",312.54029,312.54029,1,192,3,192,0.627814010416667,120.54029,"Category 3","Raja microocellata","RJE",87,73,58
+"111","Small-eyed ray",2021,"rje.27.7fg","Celtic Seas",109.64883,109.64883,1,123,3,123,-0.108546097560976,-13.35117,"Category 3","Raja microocellata","RJE",87,73,58
+"112","Small-eyed ray",2020,"rje.27.7de","Celtic Seas",16.45125,52.90862,0.310937045797074,40,5,12.437481831883,0.3227155,4.01376816811703,"Category 5 and 6","Raja microocellata","RJE",87,73,58
+"113","Small-eyed ray",2018,"rje.27.7de","Greater North Sea",22.96724,38.08165,0.603105170075351,36,5,21.7117861227126,0.057823611111111,1.25545387728735,"Category 5 and 6","Raja microocellata","RJE",87,73,58
+"114","Small-eyed ray",2018,"rje.27.7de","Celtic Seas",15.11441,38.08165,0.396894829924649,36,5,14.2882138772874,0.0578236111111112,0.826196122712647,"Category 5 and 6","Raja microocellata","RJE",87,73,58
+"115","Small-eyed ray",2016,"rje.27.7fg","Celtic Seas",198.0513,198.0513,1,188,3,188,0.0534643617021275,10.0513,"Category 3","Raja microocellata","RJE",87,73,58
+"116","Small-eyed ray",2017,"rje.27.7de","Greater North Sea",21.94622,36.45819,0.601955829403489,36,5,21.6704098585256,0.0127275000000002,0.275810141474388,"Category 5 and 6","Raja microocellata","RJE",87,73,58
+"117","Small-eyed ray",2016,"rje.27.7de","Greater North Sea",22.041,36.254,0.607960500910244,43,5,26.1423015391405,-0.156883720930233,-4.10130153914051,"Category 5 and 6","Raja microocellata","RJE",87,73,58
+"118","Small-eyed ray",2016,"rje.27.7de","Celtic Seas",14.213,36.254,0.392039499089756,43,5,16.8576984608595,-0.156883720930233,-2.64469846085949,"Category 5 and 6","Raja microocellata","RJE",87,73,58
+"119","Small-eyed ray",2018,"rje.27.7fg","Celtic Seas",244.6828,244.6828,1,154,3,154,0.588849350649351,90.6828,"Category 3","Raja microocellata","RJE",87,73,58
+"120","Small-eyed ray",2017,"rje.27.7de","Celtic Seas",14.51197,36.45819,0.398044170596511,36,5,14.3295901414744,0.0127275,0.182379858525616,"Category 5 and 6","Raja microocellata","RJE",87,73,58
+"121","Spotted ray",2018,"rjm.27.8","Bay of Biscay and Iberian coast",215.16464,215.16464,1,115,3,115,0.870996869565217,100.16464,"Category 3","Raja montagui","RJM",79,58,65
+"122","Spotted ray",2020,"rjm.27.8","Bay of Biscay and Iberian coast",230.69089,230.69089,1,108,3,108,1.13602675925926,122.69089,"Category 3","Raja montagui","RJM",79,58,65
+"123","Spotted ray",2017,"rjm.27.9a","Bay of Biscay and Iberian coast",99.101,99.101,1,112,5,112,-0.115169642857143,-12.899,"Category 5 and 6","Raja montagui","RJM",79,58,65
+"124","Spotted ray",2020,"rjm.27.9a","Bay of Biscay and Iberian coast",69.4023,69.4023,1,108,5,108,-0.357386111111111,-38.5977,"Category 5 and 6","Raja montagui","RJM",79,58,65
+"125","Spotted ray",2020,"rjm.27.7ae-h","Celtic Seas",741.493831,741.493831,1,1296,3,1296,-0.427859698302469,-554.506169,"Category 3","Raja montagui","RJM",79,58,65
+"126","Spotted ray",2019,"rjm.27.67bj","Celtic Seas",77.360134,77.360134,1,80,3,80,-0.032998325,-2.639866,"Category 3","Raja montagui","RJM",79,58,65
+"127","Spotted ray",2017,"rjm.27.3a47d","Greater North Sea",260.09137,260.09137,1,292,3,292,-0.109276130136986,-31.90863,"Category 3","Raja montagui","RJM",79,58,65
+"128","Spotted ray",2016,"rjm.27.8","Bay of Biscay and Iberian coast",158.95276,158.95276,1,94,3,94,0.690986808510638,64.95276,"Category 3","Raja montagui","RJM",79,58,65
+"129","Spotted ray",2017,"rjm.27.67bj","Celtic Seas",95.296891,95.296891,1,67,3,67,0.422341656716418,28.296891,"Category 3","Raja montagui","RJM",79,58,65
+"130","Spotted ray",2021,"rjm.27.9a","Bay of Biscay and Iberian coast",112.91209,112.91209,1,108,5,108,0.0454823148148149,4.91209000000001,"Category 5 and 6","Raja montagui","RJM",79,58,65
+"131","Spotted ray",2016,"rjm.27.67bj","Celtic Seas",116.09986,116.09986,1,53,3,53,1.19056339622641,63.09986,"Category 3","Raja montagui","RJM",79,58,65
+"132","Spotted ray",2022,"rjm.27.9a","Bay of Biscay and Iberian coast",87.1599,87.1599,1,108,5,108,-0.192963888888889,-20.8401,"Category 5 and 6","Raja montagui","RJM",79,58,65
+"133","Spotted ray",2019,"rjm.27.8","Bay of Biscay and Iberian coast",267.37286,267.37286,1,108,3,108,1.47567462962963,159.37286,"Category 3","Raja montagui","RJM",79,58,65
+"134","Spotted ray",2022,"rjm.27.67bj","Celtic Seas",18.69906,18.69906,1,51,3,51,-0.633351764705882,-32.30094,"Category 3","Raja montagui","RJM",79,58,65
+"135","Spotted ray",2022,"rjm.27.7ae-h","Celtic Seas",602.396295,602.396295,1,1041,3,1041,-0.421329207492795,-438.603705,"Category 3","Raja montagui","RJM",79,58,65
+"136","Spotted ray",2022,"rjm.27.8","Bay of Biscay and Iberian coast",135.14126,135.14126,1,129,3,129,0.0476066666666666,6.14125999999999,"Category 3","Raja montagui","RJM",79,58,65
+"137","Spotted ray",2018,"rjm.27.7ae-h","Celtic Seas",1000.972041,1000.972041,1,1197,3,1197,-0.163766047619048,-196.027959,"Category 3","Raja montagui","RJM",79,58,65
+"138","Spotted ray",2021,"rjm.27.3a47d","Greater North Sea",275.05677,275.05677,1,301,3,301,-0.0861901328903656,-25.94323,"Category 3","Raja montagui","RJM",79,58,65
+"139","Spotted ray",2016,"rjm.27.9a","Bay of Biscay and Iberian coast",73.1316,73.1316,1,106,5,106,-0.310079245283019,-32.8684,"Category 5 and 6","Raja montagui","RJM",79,58,65
+"140","Spotted ray",2017,"rjm.27.7ae-h","Celtic Seas",762.169825,762.169825,1,1197,3,1197,-0.363266645781119,-434.830175,"Category 3","Raja montagui","RJM",79,58,65
+"141","Spotted ray",2019,"rjm.27.3a47d","Greater North Sea",339.33373,339.33373,1,291,3,291,0.16609529209622,48.33373,"Category 3","Raja montagui","RJM",79,58,65
+"142","Spotted ray",2021,"rjm.27.7ae-h","Celtic Seas",821.72031,821.72031,1,1041,3,1041,-0.210643314121037,-219.27969,"Category 3","Raja montagui","RJM",79,58,65
+"143","Spotted ray",2021,"rjm.27.8","Bay of Biscay and Iberian coast",219.62709,219.62709,1,129,3,129,0.702535581395349,90.62709,"Category 3","Raja montagui","RJM",79,58,65
+"144","Spotted ray",2016,"rjm.27.3a47d","Greater North Sea",223.83306,223.83306,1,292,3,292,-0.233448424657534,-68.16694,"Category 3","Raja montagui","RJM",79,58,65
+"145","Spotted ray",2017,"rjm.27.8","Bay of Biscay and Iberian coast",179.68448,179.68448,1,115,3,115,0.562473739130435,64.68448,"Category 3","Raja montagui","RJM",79,58,65
+"146","Spotted ray",2020,"rjm.27.67bj","Celtic Seas",5.333655,5.333655,1,80,3,80,-0.9333293125,-74.666345,"Category 3","Raja montagui","RJM",79,58,65
+"147","Spotted ray",2022,"rjm.27.3a47d","Greater North Sea",238.58993,238.58993,1,232,3,232,0.0284048706896551,6.58993000000001,"Category 3","Raja montagui","RJM",79,58,65
+"148","Spotted ray",2020,"rjm.27.3a47d","Greater North Sea",256.25552,256.25552,1,301,3,301,-0.148652757475083,-44.74448,"Category 3","Raja montagui","RJM",79,58,65
+"149","Spotted ray",2021,"rjm.27.67bj","Celtic Seas",33.9407,33.9407,1,51,3,51,-0.334496078431373,-17.0593,"Category 3","Raja montagui","RJM",79,58,65
+"150","Spotted ray",2018,"rjm.27.9a","Bay of Biscay and Iberian coast",61.56943,61.56943,1,112,5,112,-0.450272946428571,-50.43057,"Category 5 and 6","Raja montagui","RJM",79,58,65
+"151","Spotted ray",2019,"rjm.27.9a","Bay of Biscay and Iberian coast",90.38494,90.38494,1,108,5,108,-0.163102407407407,-17.61506,"Category 5 and 6","Raja montagui","RJM",79,58,65
+"152","Spotted ray",2018,"rjm.27.3a47d","Greater North Sea",356.05768,356.05768,1,291,3,291,0.223565910652921,65.05768,"Category 3","Raja montagui","RJM",79,58,65
+"153","Spotted ray",2019,"rjm.27.7ae-h","Celtic Seas",1011.59239,1011.59239,1,1296,3,1296,-0.219450316358025,-284.40761,"Category 3","Raja montagui","RJM",79,58,65
+"154","Spotted ray",2018,"rjm.27.67bj","Celtic Seas",104.439612,104.439612,1,67,3,67,0.558800179104478,37.439612,"Category 3","Raja montagui","RJM",79,58,65
+"155","Spotted ray",2016,"rjm.27.7ae-h","Celtic Seas",946.931315,946.931315,1,1118,3,1118,-0.153013135062612,-171.068685,"Category 3","Raja montagui","RJM",79,58,65
+"156","Thornback ray",2016,"rjc.27.3a47d","Greater North Sea",1807.43119,1807.43119,1,2110,3,2110,-0.14339754028436,-302.56881,"Category 3","Raja clavata","RJC",114,74,76
+"157","Thornback ray",2016,"rjc.27.6","Celtic Seas",259.560511,259.560511,1,205,3,205,0.266148834146342,54.560511,"Category 3","Raja clavata","RJC",114,74,76
+"158","Thornback ray",2016,"rjc.27.7afg","Celtic Seas",861.04457,861.04457,1,1235,3,1235,-0.30279791902834,-373.95543,"Category 3","Raja clavata","RJC",114,74,76
+"159","Thornback ray",2016,"rjc.27.8","Bay of Biscay and Iberian coast",372.612027,372.612027,1,238,3,238,0.56559675210084,134.612027,"Category 3","Raja clavata","RJC",114,74,76
+"160","Thornback ray",2016,"rjc.27.9a","Bay of Biscay and Iberian coast",681.8854,681.8854,1,911,3,911,-0.251497914379802,-229.1146,"Category 3","Raja clavata","RJC",114,74,76
+"161","Thornback ray",2018,"rjc.27.9a","Bay of Biscay and Iberian coast",805.5859,805.5859,1,1203,3,1203,-0.330352535328346,-397.4141,"Category 3","Raja clavata","RJC",114,74,76
+"162","Thornback ray",2022,"rjc.27.7e","Celtic Seas",566.19171,566.19171,1,170,5,170,2.33053947058824,396.19171,"Category 5 and 6","Raja clavata","RJC",114,74,76
+"163","Thornback ray",2017,"rjc.27.3a47d","Greater North Sea",1788.72202,1788.72202,1,2110,3,2110,-0.15226444549763,-321.27798,"Category 3","Raja clavata","RJC",114,74,76
+"164","Thornback ray",2017,"rjc.27.6","Celtic Seas",283.95427,283.95427,1,145,3,145,0.958305310344828,138.95427,"Category 3","Raja clavata","RJC",114,74,76
+"165","Thornback ray",2017,"rjc.27.7afg","Celtic Seas",877.760839,877.760839,1,1386,3,1386,-0.366694921356421,-508.239161,"Category 3","Raja clavata","RJC",114,74,76
+"166","Thornback ray",2017,"rjc.27.8","Bay of Biscay and Iberian coast",368.66681,368.66681,1,434,3,434,-0.150537304147465,-65.33319,"Category 3","Raja clavata","RJC",114,74,76
+"167","Thornback ray",2017,"rjc.27.9a","Bay of Biscay and Iberian coast",743.847,743.847,1,1203,3,1203,-0.381673316708229,-459.153,"Category 3","Raja clavata","RJC",114,74,76
+"168","Thornback ray",2019,"rjc.27.9a","Bay of Biscay and Iberian coast",802.31034,802.31034,1,1431,3,1431,-0.439335890985325,-628.68966,"Category 3","Raja clavata","RJC",114,74,76
+"169","Thornback ray",2019,"rjc.27.7e","Celtic Seas",490.09229,490.09229,1,212,5,212,1.31175608490566,278.09229,"Category 5 and 6","Raja clavata","RJC",114,74,76
+"170","Thornback ray",2018,"rjc.27.3a47d","Greater North Sea",2218.43005,2218.43005,1,2574,3,2574,-0.138139063714064,-355.56995,"Category 3","Raja clavata","RJC",114,74,76
+"171","Thornback ray",2018,"rjc.27.6","Celtic Seas",327.83212,327.83212,1,145,3,145,1.26091117241379,182.83212,"Category 3","Raja clavata","RJC",114,74,76
+"172","Thornback ray",2018,"rjc.27.7afg","Celtic Seas",840.250726,840.250726,1,1386,3,1386,-0.393758494949495,-545.749274,"Category 3","Raja clavata","RJC",114,74,76
+"173","Thornback ray",2017,"rjc.27.7e","Celtic Seas",371.886352,371.886352,1,212,5,212,0.754180905660377,159.886352,"Category 5 and 6","Raja clavata","RJC",114,74,76
+"174","Thornback ray",2020,"rjc.27.8","Bay of Biscay and Iberian coast",523.12956,523.12956,1,276,3,276,0.895396956521739,247.12956,"Category 3","Raja clavata","RJC",114,74,76
+"175","Thornback ray",2016,"rjc.27.7e","Celtic Seas",423.033,423.033,1,260,5,260,0.62705,163.033,"Category 5 and 6","Raja clavata","RJC",114,74,76
+"176","Thornback ray",2022,"rjc.27.9a","Bay of Biscay and Iberian coast",1089.9927,1089.9927,1,1717,3,1717,-0.365176062900408,-627.0073,"Category 3","Raja clavata","RJC",114,74,76
+"177","Thornback ray",2019,"rjc.27.3a47d","Greater North Sea",2212.98583,2212.98583,1,2574,3,2574,-0.140254145299145,-361.01417,"Category 3","Raja clavata","RJC",114,74,76
+"178","Thornback ray",2019,"rjc.27.6","Celtic Seas",395.59086,395.59086,1,174,3,174,1.27351068965517,221.59086,"Category 3","Raja clavata","RJC",114,74,76
+"179","Thornback ray",2021,"rjc.27.7e","Celtic Seas",541.1399,541.1399,1,170,5,170,2.18317588235294,371.1399,"Category 5 and 6","Raja clavata","RJC",114,74,76
+"180","Thornback ray",2019,"rjc.27.8","Bay of Biscay and Iberian coast",513.09409,513.09409,1,276,3,276,0.859036557971015,237.09409,"Category 3","Raja clavata","RJC",114,74,76
+"181","Thornback ray",2021,"rjc.27.8","Bay of Biscay and Iberian coast",538.17961,538.17961,1,389,3,389,0.383495141388175,149.17961,"Category 3","Raja clavata","RJC",114,74,76
+"182","Thornback ray",2021,"rjc.27.9a","Bay of Biscay and Iberian coast",941.573,941.573,1,1717,3,1717,-0.451617355853232,-775.427,"Category 3","Raja clavata","RJC",114,74,76
+"183","Thornback ray",2020,"rjc.27.7e","Celtic Seas",463.969381,463.969381,1,212,5,212,1.18853481603774,251.969381,"Category 5 and 6","Raja clavata","RJC",114,74,76
+"184","Thornback ray",2020,"rjc.27.3a47d","Greater North Sea",2241.42775,2241.42775,1,2237,3,2237,0.00197932498882425,4.42774999999983,"Category 3","Raja clavata","RJC",114,74,76
+"185","Thornback ray",2020,"rjc.27.6","Celtic Seas",261.12455,261.12455,1,174,3,174,0.500715804597701,87.12455,"Category 3","Raja clavata","RJC",114,74,76
+"186","Thornback ray",2018,"rjc.27.8","Bay of Biscay and Iberian coast",529.30251,529.30251,1,434,3,434,0.219591036866359,95.30251,"Category 3","Raja clavata","RJC",114,74,76
+"187","Thornback ray",2022,"rjc.27.7afg","Celtic Seas",1005.441102,1005.441102,1,1596,3,1596,-0.370024372180451,-590.558898,"Category 3","Raja clavata","RJC",114,74,76
+"188","Thornback ray",2020,"rjc.27.9a","Bay of Biscay and Iberian coast",848.4259,848.4259,1,1431,3,1431,-0.407109783368274,-582.5741,"Category 3","Raja clavata","RJC",114,74,76
+"189","Thornback ray",2021,"rjc.27.7afg","Celtic Seas",972.35937,972.35937,1,1596,3,1596,-0.39075227443609,-623.64063,"Category 3","Raja clavata","RJC",114,74,76
+"190","Thornback ray",2022,"rjc.27.3a47d","Greater North Sea",1964.35106,1964.35106,1,2446,3,2446,-0.196912894521668,-481.64894,"Category 3","Raja clavata","RJC",114,74,76
+"191","Thornback ray",2021,"rjc.27.3a47d","Greater North Sea",2237.60935,2237.60935,1,2237,3,2237,0.000272396066160141,0.609350000000177,"Category 3","Raja clavata","RJC",114,74,76
+"192","Thornback ray",2019,"rjc.27.7afg","Celtic Seas",959.579684,959.579684,1,1663,3,1663,-0.422982751653638,-703.420316,"Category 3","Raja clavata","RJC",114,74,76
+"193","Thornback ray",2022,"rjc.27.8","Bay of Biscay and Iberian coast",793.53887,793.53887,1,389,3,389,1.03994568123393,404.53887,"Category 3","Raja clavata","RJC",114,74,76
+"194","Thornback ray",2020,"rjc.27.7afg","Celtic Seas",908.725801,908.725801,1,1663,3,1663,-0.453562356584486,-754.274199,"Category 3","Raja clavata","RJC",114,74,76
+"195","Thornback ray",2018,"rjc.27.7e","Celtic Seas",437.871094,437.871094,1,212,5,212,1.06542968867925,225.871094,"Category 5 and 6","Raja clavata","RJC",114,74,76
+"196","Thornback ray",2021,"rjc.27.6","Celtic Seas",241.59172,241.59172,1,137,3,137,0.763443211678832,104.59172,"Category 3","Raja clavata","RJC",114,74,76
+"197","Thornback ray",2022,"rjc.27.6","Celtic Seas",205.400475,205.400475,1,137,3,137,0.499273540145985,68.400475,"Category 3","Raja clavata","RJC",114,74,76
+"198","Undulate ray",2017,"rju.27.7de","Greater North Sea",21.76166,138.75948,0.156830077483715,65,3,10.1939550364415,1.13476123076923,11.5677049635585,"Category 3","Raja undulata","RJU",110,76,70
+"199","Undulate ray",2018,"rju.27.7de","Greater North Sea",19.83673,143.29416,0.138433624929306,115,3,15.9198668668702,0.246036173913043,3.91686313312978,"Category 3","Raja undulata","RJU",110,76,70
+"200","Undulate ray",2016,"rju.27.7de","Greater North Sea",14.159,84.263,0.168033419175676,0,3,0,1,14.159,"Category 3","Raja undulata","RJU",110,76,70
+"201","Undulate ray",2017,"rju.27.7de","Celtic Seas",116.99782,138.75948,0.843169922516285,65,3,54.8060449635585,1.13476123076923,62.1917750364415,"Category 3","Raja undulata","RJU",110,76,70
+"202","Undulate ray",2020,"rju.27.7de","Greater North Sea",54.98546,225.28919,0.244066126741367,115,3,28.0676045752572,0.959036434782609,26.9178554247428,"Category 3","Raja undulata","RJU",110,76,70
+"203","Undulate ray",2019,"rju.27.7de","Greater North Sea",58.04978,244.26005,0.237655646103405,115,3,27.3303993018916,1.12400043478261,30.7193806981084,"Category 3","Raja undulata","RJU",110,76,70
+"204","Undulate ray",2018,"rju.27.7bj","Celtic Seas",2.830323,2.830323,1,0,6,0,1,2.830323,"Category 5 and 6","Raja undulata","RJU",110,76,70
+"205","Undulate ray",2019,"rju.27.7de","Celtic Seas",186.21027,244.26005,0.762344353896595,115,3,87.6696006981084,1.12400043478261,98.5406693018916,"Category 3","Raja undulata","RJU",110,76,70
+"206","Undulate ray",2016,"rju.27.7de","Celtic Seas",70.104,84.263,0.831966580824324,0,3,0,1,70.104,"Category 3","Raja undulata","RJU",110,76,70
+"207","Undulate ray",2020,"rju.27.7de","Celtic Seas",170.30373,225.28919,0.755933873258633,115,3,86.9323954247428,0.959036434782609,83.3713345752573,"Category 3","Raja undulata","RJU",110,76,70
+"208","Undulate ray",2022,"rju.27.7de","Celtic Seas",195.6896,232.61801,0.841248706409276,183,3,153.948513272898,0.271136666666667,41.7410867271025,"Category 3","Raja undulata","RJU",110,76,70
+"209","Undulate ray",2022,"rju.27.7de","Greater North Sea",36.92841,232.61801,0.158751293590724,183,3,29.0514867271025,0.271136666666667,7.87692327289749,"Category 3","Raja undulata","RJU",110,76,70
+"210","Undulate ray",2019,"rju.27.7bj","Celtic Seas",0.32814,0.32814,1,0,6,0,1,0.32814,"Category 5 and 6","Raja undulata","RJU",110,76,70
+"211","Undulate ray",2018,"rju.27.7de","Celtic Seas",123.45743,143.29416,0.861566375070694,115,3,99.0801331331298,0.246036173913043,24.3772968668702,"Category 3","Raja undulata","RJU",110,76,70
+"212","Undulate ray",2021,"rju.27.7de","Greater North Sea",33.19662,204.80768,0.162086792839019,183,3,29.6618830895404,0.119167650273224,3.53473691045961,"Category 3","Raja undulata","RJU",110,76,70
+"213","Undulate ray",2020,"rju.27.7bj","Celtic Seas",0.2822,0.2822,1,0,6,0,1,0.2822,"Category 5 and 6","Raja undulata","RJU",110,76,70
+"214","Undulate ray",2017,"rju.27.7bj","Celtic Seas",1.3424,1.3424,1,0,6,0,1,1.3424,"Category 5 and 6","Raja undulata","RJU",110,76,70
+"215","Undulate ray",2021,"rju.27.7de","Celtic Seas",171.61106,204.80768,0.837913207160981,183,3,153.33811691046,0.119167650273224,18.2729430895404,"Category 3","Raja undulata","RJU",110,76,70
+"216","Undulate ray",2016,"rju.27.7bj","Celtic Seas",0.855,0.855,1,0,6,0,1,0.855,"Category 5 and 6","Raja undulata","RJU",110,76,70
