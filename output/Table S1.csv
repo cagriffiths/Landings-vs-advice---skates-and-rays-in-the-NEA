@@ -1,0 +1,217 @@
+"","stock","year","area","landings","advice"
+"1","rjc.27.3a47d",2016,"Greater North Sea",1807.43119,2110
+"2","rjc.27.3a47d",2017,"Greater North Sea",1788.72202,2110
+"3","rjc.27.3a47d",2018,"Greater North Sea",2218.43005,2574
+"4","rjc.27.3a47d",2019,"Greater North Sea",2212.98583,2574
+"5","rjc.27.3a47d",2020,"Greater North Sea",2241.42775,2237
+"6","rjc.27.3a47d",2021,"Greater North Sea",2237.60935,2237
+"7","rjc.27.3a47d",2022,"Greater North Sea",1964.35106,2446
+"8","rjc.27.6",2016,"Celtic Seas",259.560511,205
+"9","rjc.27.6",2017,"Celtic Seas",283.95427,145
+"10","rjc.27.6",2018,"Celtic Seas",327.83212,145
+"11","rjc.27.6",2019,"Celtic Seas",395.59086,174
+"12","rjc.27.6",2020,"Celtic Seas",261.12455,174
+"13","rjc.27.6",2021,"Celtic Seas",241.59172,137
+"14","rjc.27.6",2022,"Celtic Seas",205.400475,137
+"15","rjc.27.7afg",2016,"Celtic Seas",861.04457,1235
+"16","rjc.27.7afg",2017,"Celtic Seas",877.760839,1386
+"17","rjc.27.7afg",2018,"Celtic Seas",840.250726,1386
+"18","rjc.27.7afg",2019,"Celtic Seas",959.579684,1663
+"19","rjc.27.7afg",2020,"Celtic Seas",908.725801,1663
+"20","rjc.27.7afg",2021,"Celtic Seas",972.35937,1596
+"21","rjc.27.7afg",2022,"Celtic Seas",1005.441102,1596
+"22","rjc.27.7e",2016,"Celtic Seas",423.033,260
+"23","rjc.27.7e",2017,"Celtic Seas",371.886352,212
+"24","rjc.27.7e",2018,"Celtic Seas",437.871094,212
+"25","rjc.27.7e",2019,"Celtic Seas",490.09229,212
+"26","rjc.27.7e",2020,"Celtic Seas",463.969381,212
+"27","rjc.27.7e",2021,"Celtic Seas",541.1399,170
+"28","rjc.27.7e",2022,"Celtic Seas",566.19171,170
+"29","rjc.27.8",2016,"Bay of Biscay and Iberian coast",372.612027,238
+"30","rjc.27.8",2017,"Bay of Biscay and Iberian coast",368.66681,434
+"31","rjc.27.8",2018,"Bay of Biscay and Iberian coast",529.30251,434
+"32","rjc.27.8",2019,"Bay of Biscay and Iberian coast",513.09409,276
+"33","rjc.27.8",2020,"Bay of Biscay and Iberian coast",523.12956,276
+"34","rjc.27.8",2021,"Bay of Biscay and Iberian coast",538.17961,389
+"35","rjc.27.8",2022,"Bay of Biscay and Iberian coast",793.53887,389
+"36","rjc.27.9a",2016,"Bay of Biscay and Iberian coast",681.8854,911
+"37","rjc.27.9a",2017,"Bay of Biscay and Iberian coast",743.847,1203
+"38","rjc.27.9a",2018,"Bay of Biscay and Iberian coast",805.5859,1203
+"39","rjc.27.9a",2019,"Bay of Biscay and Iberian coast",802.31034,1431
+"40","rjc.27.9a",2020,"Bay of Biscay and Iberian coast",848.4259,1431
+"41","rjc.27.9a",2021,"Bay of Biscay and Iberian coast",941.573,1717
+"42","rjc.27.9a",2022,"Bay of Biscay and Iberian coast",1089.9927,1717
+"43","rje.27.7de",2016,"Celtic Seas",14.213,16.8576984608595
+"44","rje.27.7de",2016,"Greater North Sea",22.041,26.1423015391405
+"45","rje.27.7de",2017,"Celtic Seas",14.51197,14.3295901414744
+"46","rje.27.7de",2017,"Greater North Sea",21.94622,21.6704098585256
+"47","rje.27.7de",2018,"Celtic Seas",15.11441,14.2882138772874
+"48","rje.27.7de",2018,"Greater North Sea",22.96724,21.7117861227126
+"49","rje.27.7de",2019,"Celtic Seas",15.48577,12.2992569783495
+"50","rje.27.7de",2019,"Greater North Sea",34.8775,27.7007430216505
+"51","rje.27.7de",2020,"Celtic Seas",16.45125,12.437481831883
+"52","rje.27.7de",2020,"Greater North Sea",36.45737,27.562518168117
+"53","rje.27.7de",2021,"Celtic Seas",30.85342,24.2592853228329
+"54","rje.27.7de",2021,"Greater North Sea",20.01934,15.7407146771671
+"55","rje.27.7de",2022,"Celtic Seas",40.5618,24.9184205211534
+"56","rje.27.7de",2022,"Greater North Sea",24.54955,15.0815794788466
+"57","rje.27.7fg",2016,"Celtic Seas",198.0513,188
+"58","rje.27.7fg",2017,"Celtic Seas",201.32289,154
+"59","rje.27.7fg",2018,"Celtic Seas",244.6828,154
+"60","rje.27.7fg",2019,"Celtic Seas",312.54029,192
+"61","rje.27.7fg",2020,"Celtic Seas",230.22925,192
+"62","rje.27.7fg",2021,"Celtic Seas",109.64883,123
+"63","rje.27.7fg",2022,"Celtic Seas",151.41626,123
+"64","rjf.27.67",2016,"Celtic Seas",185.40836,186
+"65","rjf.27.67",2017,"Celtic Seas",199.68197,209.99894833295
+"66","rjf.27.67",2017,"Greater North Sea",0.001,0.00105166705002435
+"67","rjf.27.67",2018,"Celtic Seas",203.49846,209.896855801365
+"68","rjf.27.67",2018,"Greater North Sea",0.1,0.103144198634901
+"69","rjf.27.67",2019,"Celtic Seas",194.33844,168
+"70","rjf.27.67",2020,"Celtic Seas",180.8363,167.99966555454
+"71","rjf.27.67",2020,"Greater North Sea",0.00036,0.000334445460339734
+"72","rjf.27.67",2021,"Celtic Seas",182.178048,168
+"73","rjf.27.67",2022,"Celtic Seas",207.77079,168
+"74","rjh.27.4a6",2016,"Celtic Seas",13.67691,5.93019177028901
+"75","rjh.27.4a6",2016,"Greater North Sea",0.161,0.0698082297109896
+"76","rjh.27.4a6",2017,"Celtic Seas",5.99141,6
+"77","rjh.27.4a6",2018,"Celtic Seas",26.06051,5.98965735586089
+"78","rjh.27.4a6",2018,"Greater North Sea",0.045,0.0103426441391109
+"79","rjh.27.4a6",2019,"Celtic Seas",34.6579,8.8227202914497
+"80","rjh.27.4a6",2019,"Greater North Sea",0.6964,0.177279708550304
+"81","rjh.27.4a6",2020,"Celtic Seas",21.32783,8.93860527364778
+"82","rjh.27.4a6",2020,"Greater North Sea",0.14649,0.0613947263522198
+"83","rjh.27.4a6",2021,"Celtic Seas",14.33671,8.8410466430093
+"84","rjh.27.4a6",2021,"Greater North Sea",0.25776,0.158953356990696
+"85","rjh.27.4a6",2022,"Celtic Seas",4.555389,5.91018052637169
+"86","rjh.27.4a6",2022,"Greater North Sea",0.84,1.08981947362831
+"87","rjh.27.4bc7d",2016,"Greater North Sea",182.93209,162
+"88","rjh.27.4bc7d",2017,"Greater North Sea",240.83954,162
+"89","rjh.27.4bc7d",2018,"Greater North Sea",254.83533,195
+"90","rjh.27.4bc7d",2019,"Greater North Sea",253.05768,195
+"91","rjh.27.4bc7d",2020,"Greater North Sea",243.07429,164
+"92","rjh.27.4bc7d",2021,"Greater North Sea",298.81763,164
+"93","rjh.27.4bc7d",2022,"Greater North Sea",327.9669,191
+"94","rjh.27.7afg",2016,"Celtic Seas",1004.018117,897
+"95","rjh.27.7afg",2017,"Celtic Seas",1020.173015,895
+"96","rjh.27.7afg",2018,"Celtic Seas",1076.502805,895
+"97","rjh.27.7afg",2019,"Celtic Seas",1615.763545,716
+"98","rjh.27.7afg",2020,"Celtic Seas",1703.27047,716
+"99","rjh.27.7afg",2021,"Celtic Seas",1467.440727,716
+"100","rjh.27.7afg",2022,"Celtic Seas",1342.10161,716
+"101","rjh.27.7e",2016,"Celtic Seas",586.648,310
+"102","rjh.27.7e",2017,"Celtic Seas",504.05635,333
+"103","rjh.27.7e",2018,"Celtic Seas",735.126175,333
+"104","rjh.27.7e",2019,"Celtic Seas",896.321957,266
+"105","rjh.27.7e",2020,"Celtic Seas",1013.552248,266
+"106","rjh.27.7e",2021,"Celtic Seas",992.01596,266
+"107","rjh.27.7e",2022,"Celtic Seas",1080.139,266
+"108","rjh.27.9a",2016,"Bay of Biscay and Iberian coast",221.6664,200
+"109","rjh.27.9a",2017,"Bay of Biscay and Iberian coast",235.866,177
+"110","rjh.27.9a",2018,"Bay of Biscay and Iberian coast",195.16787,177
+"111","rjh.27.9a",2019,"Bay of Biscay and Iberian coast",262.7987,212
+"112","rjh.27.9a",2020,"Bay of Biscay and Iberian coast",347.05291,212
+"113","rjh.27.9a",2021,"Bay of Biscay and Iberian coast",277.78631,254
+"114","rjh.27.9a",2022,"Bay of Biscay and Iberian coast",310.8209,254
+"115","rji.27.67",2016,"Celtic Seas",74.69785,39
+"116","rji.27.67",2017,"Celtic Seas",67.57068,42
+"117","rji.27.67",2018,"Celtic Seas",76.95615,42
+"118","rji.27.67",2019,"Celtic Seas",35.61709,34
+"119","rji.27.67",2020,"Celtic Seas",29.72911,34
+"120","rji.27.67",2021,"Celtic Seas",49.79008,34
+"121","rji.27.67",2022,"Celtic Seas",56.876289,34
+"122","rjm.27.3a47d",2016,"Greater North Sea",223.83306,292
+"123","rjm.27.3a47d",2017,"Greater North Sea",260.09137,292
+"124","rjm.27.3a47d",2018,"Greater North Sea",356.05768,291
+"125","rjm.27.3a47d",2019,"Greater North Sea",339.33373,291
+"126","rjm.27.3a47d",2020,"Greater North Sea",256.25552,301
+"127","rjm.27.3a47d",2021,"Greater North Sea",275.05677,301
+"128","rjm.27.3a47d",2022,"Greater North Sea",238.58993,232
+"129","rjm.27.67bj",2016,"Celtic Seas",116.09986,53
+"130","rjm.27.67bj",2017,"Celtic Seas",95.296891,67
+"131","rjm.27.67bj",2018,"Celtic Seas",104.439612,67
+"132","rjm.27.67bj",2019,"Celtic Seas",77.360134,80
+"133","rjm.27.67bj",2020,"Celtic Seas",5.333655,80
+"134","rjm.27.67bj",2021,"Celtic Seas",33.9407,51
+"135","rjm.27.67bj",2022,"Celtic Seas",18.69906,51
+"136","rjm.27.7ae-h",2016,"Celtic Seas",946.931315,1118
+"137","rjm.27.7ae-h",2017,"Celtic Seas",762.169825,1197
+"138","rjm.27.7ae-h",2018,"Celtic Seas",1000.972041,1197
+"139","rjm.27.7ae-h",2019,"Celtic Seas",1011.59239,1296
+"140","rjm.27.7ae-h",2020,"Celtic Seas",741.493831,1296
+"141","rjm.27.7ae-h",2021,"Celtic Seas",821.72031,1041
+"142","rjm.27.7ae-h",2022,"Celtic Seas",602.396295,1041
+"143","rjm.27.8",2016,"Bay of Biscay and Iberian coast",158.95276,94
+"144","rjm.27.8",2017,"Bay of Biscay and Iberian coast",179.68448,115
+"145","rjm.27.8",2018,"Bay of Biscay and Iberian coast",215.16464,115
+"146","rjm.27.8",2019,"Bay of Biscay and Iberian coast",267.37286,108
+"147","rjm.27.8",2020,"Bay of Biscay and Iberian coast",230.69089,108
+"148","rjm.27.8",2021,"Bay of Biscay and Iberian coast",219.62709,129
+"149","rjm.27.8",2022,"Bay of Biscay and Iberian coast",135.14126,129
+"150","rjm.27.9a",2016,"Bay of Biscay and Iberian coast",73.1316,106
+"151","rjm.27.9a",2017,"Bay of Biscay and Iberian coast",99.101,112
+"152","rjm.27.9a",2018,"Bay of Biscay and Iberian coast",61.56943,112
+"153","rjm.27.9a",2019,"Bay of Biscay and Iberian coast",90.38494,108
+"154","rjm.27.9a",2020,"Bay of Biscay and Iberian coast",69.4023,108
+"155","rjm.27.9a",2021,"Bay of Biscay and Iberian coast",112.91209,108
+"156","rjm.27.9a",2022,"Bay of Biscay and Iberian coast",87.1599,108
+"157","rjn.27.3a4",2016,"Greater North Sea",168.96,128
+"158","rjn.27.3a4",2017,"Greater North Sea",155.33398,128
+"159","rjn.27.3a4",2018,"Greater North Sea",180.17816,116
+"160","rjn.27.3a4",2019,"Greater North Sea",202.99036,116
+"161","rjn.27.3a4",2020,"Greater North Sea",177.25284,139
+"162","rjn.27.3a4",2021,"Greater North Sea",169.11312,139
+"163","rjn.27.3a4",2022,"Greater North Sea",136.07305,89
+"164","rjn.27.678abd",2016,"Bay of Biscay and Iberian coast",996.23117,673.660089725044
+"165","rjn.27.678abd",2016,"Celtic Seas",1955.107346,1322.0604110675
+"166","rjn.27.678abd",2016,"Greater North Sea",3.371,2.27949920746118
+"167","rjn.27.678abd",2017,"Bay of Biscay and Iberian coast",915.43574,892.589273407188
+"168","rjn.27.678abd",2017,"Celtic Seas",1885.540033,1838.4827405096
+"169","rjn.27.678abd",2017,"Greater North Sea",3.00293,2.92798608320956
+"170","rjn.27.678abd",2018,"Bay of Biscay and Iberian coast",1042.73575,938.575474036363
+"171","rjn.27.678abd",2018,"Celtic Seas",1991.706246,1792.75203135659
+"172","rjn.27.678abd",2018,"Greater North Sea",2.96908,2.6724946070487
+"173","rjn.27.678abd",2019,"Bay of Biscay and Iberian coast",923.48095,975.128085367073
+"174","rjn.27.678abd",2019,"Celtic Seas",2183.143647,2305.23941460882
+"175","rjn.27.678abd",2019,"Greater North Sea",0.599,0.632500024104316
+"176","rjn.27.678abd",2020,"Bay of Biscay and Iberian coast",761.2937,1018.62703990259
+"177","rjn.27.678abd",2020,"Celtic Seas",1690.15103,2261.45775365961
+"178","rjn.27.678abd",2020,"Greater North Sea",0.684,0.915206437795784
+"179","rjn.27.678abd",2021,"Bay of Biscay and Iberian coast",772.84663,968.159597225812
+"180","rjn.27.678abd",2021,"Celtic Seas",1739.79502,2179.47414200237
+"181","rjn.27.678abd",2021,"Greater North Sea",1.8889,2.36626077181683
+"182","rjn.27.678abd",2022,"Bay of Biscay and Iberian coast",657.54196,907.943600084661
+"183","rjn.27.678abd",2022,"Celtic Seas",1623.719975,2242.05639991534
+"184","rjn.27.8c",2016,"Bay of Biscay and Iberian coast",12.8915,347
+"185","rjn.27.8c",2017,"Bay of Biscay and Iberian coast",15.23493,27
+"186","rjn.27.8c",2018,"Bay of Biscay and Iberian coast",22.6549,27
+"187","rjn.27.8c",2019,"Bay of Biscay and Iberian coast",13.20006,26
+"188","rjn.27.8c",2020,"Bay of Biscay and Iberian coast",8.79184,26
+"189","rjn.27.8c",2021,"Bay of Biscay and Iberian coast",7.3187,31
+"190","rjn.27.8c",2022,"Bay of Biscay and Iberian coast",16.34763,31
+"191","rjn.27.9a",2016,"Bay of Biscay and Iberian coast",58.63576,46
+"192","rjn.27.9a",2017,"Bay of Biscay and Iberian coast",40.731,58
+"193","rjn.27.9a",2018,"Bay of Biscay and Iberian coast",24.725068,58
+"194","rjn.27.9a",2019,"Bay of Biscay and Iberian coast",38.40252,70
+"195","rjn.27.9a",2020,"Bay of Biscay and Iberian coast",23.350995,70
+"196","rjn.27.9a",2021,"Bay of Biscay and Iberian coast",22.6787,84
+"197","rjn.27.9a",2022,"Bay of Biscay and Iberian coast",38.987,84
+"198","rju.27.7bj",2016,"Celtic Seas",0.855,0
+"199","rju.27.7bj",2017,"Celtic Seas",1.3424,0
+"200","rju.27.7bj",2018,"Celtic Seas",2.830323,0
+"201","rju.27.7bj",2019,"Celtic Seas",0.32814,0
+"202","rju.27.7bj",2020,"Celtic Seas",0.2822,0
+"203","rju.27.7de",2016,"Celtic Seas",70.104,0
+"204","rju.27.7de",2016,"Greater North Sea",14.159,0
+"205","rju.27.7de",2017,"Celtic Seas",116.99782,54.8060449635585
+"206","rju.27.7de",2017,"Greater North Sea",21.76166,10.1939550364415
+"207","rju.27.7de",2018,"Celtic Seas",123.45743,99.0801331331298
+"208","rju.27.7de",2018,"Greater North Sea",19.83673,15.9198668668702
+"209","rju.27.7de",2019,"Celtic Seas",186.21027,87.6696006981084
+"210","rju.27.7de",2019,"Greater North Sea",58.04978,27.3303993018916
+"211","rju.27.7de",2020,"Celtic Seas",170.30373,86.9323954247428
+"212","rju.27.7de",2020,"Greater North Sea",54.98546,28.0676045752572
+"213","rju.27.7de",2021,"Celtic Seas",171.61106,153.33811691046
+"214","rju.27.7de",2021,"Greater North Sea",33.19662,29.6618830895404
+"215","rju.27.7de",2022,"Celtic Seas",195.6896,153.948513272898
+"216","rju.27.7de",2022,"Greater North Sea",36.92841,29.0514867271025
