@@ -28,7 +28,9 @@ The repo contains 2 primary folders:
 There is an additional *Output* folder which contains the all the generated datafiles and figures used in the MS and SIs. 
 
 # Raw data
-The raw data used in this work are collated as part the ICES Working Group on Elasmobranch Fishes (WGEF - https://www.ices.dk/community/groups/pages/wgef.aspx) and are updated on an annual and biennial basis. The WGEF landings and discards tables can be accessed on request from ICES. Data on ICES scientific advice and TAC values are freely available online and can be accessed in the ICES stock advice library or via the EU Council Regulations, respectively. Data on estimated landing weight and price were extracted from the Fisheries Dependent Information database and are freely available via the European Commission and STECF. 
+The raw data used in this work are collated as part the ICES Working Group on Elasmobranch Fishes (WGEF - https://www.ices.dk/community/groups/pages/wgef.aspx) and are updated on an annual and biennial basis. The WGEF landings and discards tables can be accessed on request from ICES. Data on ICES scientific advice and TAC values are freely available online and can be accessed in the ICES stock advice library or via the EU Council Regulations, respectively. 
+
+Data on estimated landing weight and price were extracted from the Fisheries Dependent Information database (https://stecf.jrc.ec.europa.eu/reports/fdi) and are freely available via the European Commission and STECF. 
 
 # Citations
 Batsleer, J., Griffiths, C.A., Bleeker, K., Johnston, G., Cardinale, M. and Lorance, P. (2024). Comparisons of landings to scientific advice indicates overshooting within the common TAC for skates and rays in the Northeast Atlantic. *ICES Journal of Marine Science*, accepted. 
