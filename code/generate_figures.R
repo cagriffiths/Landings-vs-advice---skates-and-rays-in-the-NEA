@@ -18,6 +18,7 @@ require(viridis)
 require(rcartocolor)
 require(ggsci)
 require(forcats)
+require(ggtext)
 
 sessionInfo()
 # tidyverse - tidyverse_2.0.0
@@ -29,8 +30,10 @@ sessionInfo()
 
 ###
 # data
-dat = read.csv('data/landings_vs_advice.csv')
-dat = dat[,2:19] # remove excel column
+#dat = read.csv('data/landings_vs_advice.csv')
+#dat = dat[,2:19] # remove excel column
+
+dat = read.csv('Edited data for figure 1 new.csv', sep = ';')
 
 ###
 # Figure 1
@@ -56,9 +59,84 @@ cols = c("Blonde ray (Raja brachyura)" = "#66C5CC",
          "Thornback ray (Raja clavata)" = "#FE88B1", 
          "Undulate ray (Raja undulata)" = "#C9DB74")
 
+dat$area = factor(dat$area, levels=c('Greater North Sea',
+                                                 'Celtic Seas',
+                                                 'Bay of Biscay and Iberian coast'))
+
 # order stocks by species
 dat1 = mutate(dat, stock = reorder(stock, as.factor(species)))
 dat1$species1 = as.numeric(as.factor(dat1$species))
+
+####
+# Figure 1 edit
+rel1 = ggplot(data = filter(dat1, scale %in% c('relative')), 
+                aes(x = value, y = fct_reorder(stock, species1), fill = species))+
+  geom_rect(xmin = 0, xmax = 5, ymin = 0, ymax = 16, fill = "grey80", alpha = 0.05)+
+  geom_rect(xmin = -2, xmax = 0, ymin = 0, ymax = 16, fill = "white", alpha = 0.2)+
+  geom_bar(stat = "summary", fun = "mean", col = 'black', position="dodge", alpha = 0.9)+
+  geom_point(shape = 21, size = 3.5, col='black', position = position_jitter(width = 0.1, height = 0.1))+
+  theme_bw()+
+  scale_fill_manual(name = "Species:", values = cols,
+                    breaks = c("Blonde ray (Raja brachyura)", "Cuckoo ray (Leucoraja naevus)", 
+                               "Sandy ray (Raja circularis)", "Shagreen ray (Leucoraja fullonica)",
+                               "Small-eyed ray (Raja microocellata)", "Spotted ray (Raja montagui)", 
+                               "Thornback ray (Raja clavata)", "Undulate ray (Raja undulata)"),
+                    labels = c("Blonde ray (*Raja brachyura*)", "Cuckoo ray (*Leucoraja naevus*)", 
+                               "Sandy ray (*Raja circularis*)", "Shagreen ray (*Leucoraja fullonica*)",
+                               "Small-eyed ray (*Raja microocellata*)", "Spotted ray (*Raja montagui*)", 
+                               "Thornback ray (*Raja clavata*)", "Undulate ray (*Raja undulata*)"))+
+  scale_y_discrete(limits=rev)+
+  scale_x_continuous(limits=c(-1, 4), breaks = seq(-1, 4, 1))+
+  facet_wrap(~area, ncol = 1, scales="free")+
+  ylab('Stock')+
+  xlab('Landings/Advice')+
+  geom_vline(xintercept = 0, col = 'black', linetype = 'dashed', linewidth = 1.2)+
+  theme(plot.title = element_text(hjust = 0.5), text = element_text(size = 16),
+        plot.margin = unit(c(0, 5.5, 5.5, 5.5), "pt"),
+        legend.position = 'right',
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        strip.background = element_blank(),
+        panel.border = element_rect(colour = "black", fill = NA),
+        strip.text.x = element_text(size = 16),
+        legend.text = ggtext::element_markdown())
+
+rel2 = ggplot(data = filter(dat1, scale %in% c('absolute')), 
+              aes(x = value, y = fct_reorder(stock, species1), fill = species))+
+  geom_rect(xmin = 0, xmax = 1100, ymin = 0, ymax = 16, fill = "grey80", alpha = 0.05)+
+  geom_rect(xmin = -1100, xmax = 0, ymin = 0, ymax = 16, fill = "white", alpha = 0.2)+
+  geom_bar(stat = "summary", fun = "mean", col = 'black', position="dodge", alpha = 0.9)+
+  geom_point(shape = 21, size = 3.5, col='black', position = position_jitter(width = 0.1, height = 0.1))+
+  theme_bw()+
+  scale_fill_manual(name = "Species:", values = cols,
+                    breaks = c("Blonde ray (Raja brachyura)", "Cuckoo ray (Leucoraja naevus)", 
+                               "Sandy ray (Raja circularis)", "Shagreen ray (Leucoraja fullonica)",
+                               "Small-eyed ray (Raja microocellata)", "Spotted ray (Raja montagui)", 
+                               "Thornback ray (Raja clavata)", "Undulate ray (Raja undulata)"),
+                    labels = c("Blonde ray (*Raja brachyura*)", "Cuckoo ray (*Leucoraja naevus*)", 
+                               "Sandy ray (*Raja circularis*)", "Shagreen ray (*Leucoraja fullonica*)",
+                               "Small-eyed ray (*Raja microocellata*)", "Spotted ray (*Raja montagui*)", 
+                               "Thornback ray (*Raja clavata*)", "Undulate ray (*Raja undulata*)"))+
+  scale_y_discrete(limits=rev)+
+  #scale_x_continuous(limits=c(-1, 4), breaks = seq(-1, 4, 1))+
+  facet_wrap(~area, ncol = 1, scales="free")+
+  ylab('')+
+  xlab('Landings-Advice (tonnes)')+
+  geom_vline(xintercept = 0, col = 'black', linetype = 'dashed', linewidth = 1.2)+
+  theme(plot.title = element_text(hjust = 0.5), text = element_text(size = 16),
+        plot.margin = unit(c(0, 5.5, 5.5, 5.5), "pt"),
+        legend.position = 'right',
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        strip.background = element_blank(),
+        panel.border = element_rect(colour = "black", fill = NA),
+        strip.text.x = element_text(size = 16),
+        legend.text = ggtext::element_markdown())
+
+rel = (rel1 | rel2) + 
+  plot_layout(guides = "collect") + 
+  theme(legend.position = "right")
+ggsave(rel, filename = 'Figure 1 - higher dpi.tiff', height = 11, width = 14, dpi = 500)
 
 # Greater North Sea 
 relGNS = ggplot(data = filter(dat1, area == 'Greater North Sea'), 
@@ -77,7 +155,7 @@ relGNS = ggplot(data = filter(dat1, area == 'Greater North Sea'),
   ggtitle('Greater North Sea')+
   theme(plot.title = element_text(hjust = 0.5), text = element_text(size = 16),
         plot.margin = unit(c(0, 5.5, 5.5, 5.5), "pt"),
-        legend.position = '')
+        legend.position = 'right')
 
 relGNS2 = ggplot(data = filter(dat1, area == 'Greater North Sea'), 
                  aes(x = diff_advice, y = fct_reorder(stock, species1), fill = species))+
@@ -95,7 +173,7 @@ relGNS2 = ggplot(data = filter(dat1, area == 'Greater North Sea'),
   ggtitle('Greater North Sea')+
   theme(plot.title = element_text(hjust = 0.5), text = element_text(size = 16),
         plot.margin = unit(c(0, 5.5, 5.5, 5.5), "pt"),
-        legend.position = '')
+        legend.position = 'right')
 
 # Celtic Seas
 relCS = ggplot(data = filter(dat1, area == 'Celtic Seas'), 
@@ -114,7 +192,7 @@ relCS = ggplot(data = filter(dat1, area == 'Celtic Seas'),
   geom_vline(xintercept = 0, col = 'black', linetype = 'dashed', linewidth = 1.2)+
   theme(plot.title = element_text(hjust = 0.5), text = element_text(size = 16),
         plot.margin = unit(c(0, 5.5, 5.5, 5.5), "pt"),
-        legend.position = '')
+        legend.position = 'right')
 
 relCS2 = ggplot(data = filter(dat1, area == 'Celtic Seas'), 
                 aes(x = diff_advice, y = fct_reorder(stock, species1), fill = species))+
@@ -132,7 +210,7 @@ relCS2 = ggplot(data = filter(dat1, area == 'Celtic Seas'),
   geom_vline(xintercept = 0, col = 'black', linetype = 'dashed', linewidth = 1.2)+
   theme(plot.title = element_text(hjust = 0.5), text = element_text(size = 16),
         plot.margin = unit(c(0, 5.5, 5.5, 5.5), "pt"),
-        legend.position = '')
+        legend.position = 'right')
 
 # Bay of Biscay and Iberian coast
 relBI = ggplot(data = filter(dat1, area == 'Bay of Biscay and Iberian coast'), 
@@ -151,7 +229,7 @@ relBI = ggplot(data = filter(dat1, area == 'Bay of Biscay and Iberian coast'),
   geom_vline(xintercept = 0, col = 'black', linetype = 'dashed', linewidth = 1.2)+
   theme(plot.title = element_text(hjust = 0.5), text = element_text(size = 16),
         plot.margin = unit(c(0, 5.5, 5.5, 5.5), "pt"),
-        legend.position = '')
+        legend.position = 'right')
 
 relBI2 = ggplot(data = filter(dat1, area == 'Bay of Biscay and Iberian coast'), 
                 aes(x = diff_advice, y = fct_reorder(stock, species1), fill = species))+
@@ -169,15 +247,15 @@ relBI2 = ggplot(data = filter(dat1, area == 'Bay of Biscay and Iberian coast'),
   geom_vline(xintercept = 0, col = 'black', linetype = 'dashed', linewidth = 1.2)+
   theme(plot.title = element_text(hjust = 0.5), text = element_text(size = 16),
         plot.margin = unit(c(0, 5.5, 5.5, 5.5), "pt"),
-        legend.position = '')
+        legend.position = 'right')
 
 # merge
-rel = (((relGNS/relCS/relBI) | (relGNS2/relCS2/relBI2)) + theme(legend.position = "none")) + 
-  plot_annotation(tag_levels = 'A') + plot_layout(guides = "collect")
+rel = (((relGNS/relCS/relBI) | (relGNS2/relCS2/relBI2)) + 
+  plot_annotation(tag_levels = 'A') + plot_layout(guides = "collect") + theme(legend.position = "right"))
 
 # save
 setwd(".../output")
-ggsave(rel, filename = 'Figure 1.png', height = 11, width = 13)
+ggsave(rel, filename = 'Figure 1 - higher dpi with legend.tiff', height = 11, width = 13, dpi = 500)
 
 ###
 # Figure 2
@@ -271,7 +349,7 @@ ices_cat = rel_plot / diff_plot + plot_layout(guides = "collect")
 
 # save
 setwd(".../output")
-ggsave(ices_cat, filename = 'Figure 2.png', height = 7, width = 9)
+ggsave(ices_cat, filename = 'Figure 2 - higher dpi.tiff', height = 7, width = 9, dpi = 500)
 
 ###
 # Figure 3
@@ -385,7 +463,7 @@ traits_out = ((g1/g3/g5) | (g2/g4/g6)) +
 
 # save
 setwd(".../output")
-ggsave(traits_out, filename = 'Figure 3.png', height = 10, width = 8)
+ggsave(traits_out, filename = 'Figure 3 - higher dpi.tiff', height = 10, width = 8, dpi = 500)
 
 ###
 # Figure S1
@@ -472,3 +550,26 @@ p = (p1 | p2 | p3) + plot_layout(guides = "collect")  & theme(legend.position = 
 # save
 setwd(".../output")
 ggsave(p, filename = 'Figure S1.png', height = 8, width = 12)
+
+###
+# Figure S2
+price = read.csv("data/price.csv", sep = ';') # load price data
+price = price[,2:8] # remove excel column
+
+# plot
+price_plot = ggplot(price, aes(x = as.factor(year), y = price_kg_mean, col = common_name, 
+                       group = common_name, fill = common_name))+
+  geom_line(linewidth = 1)+
+  geom_point(shape = 21, size = 4, alpha = 0.5)+
+  scale_color_carto_d(name = 'Species', palette = 'Pastel')+
+  scale_fill_carto_d(name = 'Species', palette = 'Pastel')+
+  theme_bw()+
+  xlab('Year')+
+  ylab(bquote("Average \u20AC kg"^-1))+
+  theme(text = element_text(size = 16))+
+  scale_y_continuous(breaks=seq(1,3,0.5), limits=c(1, 3))
+
+# save
+setwd(".../output")
+ggsave(price_plot, filename = 'Figure S2.png', height = 8, width = 12)
+
